@@ -6,5 +6,5 @@ Used BeautifulSoup package to crawl jobs information on JobsDB Singapore (https:
 
 •	Crawling jobs information such as company name, job location, job title, and salary.  
 
-•	Stored into a csv file
+•	Stored into a csv file (JobsDB_firstPage.csv is an example which stores all jobs displayed on first page on Feb 12, 2021)
 
